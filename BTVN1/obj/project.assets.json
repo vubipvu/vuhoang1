@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vubip\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CNPM\\BTVN1\\BTVN1\\BTVN1.csproj",
+      "projectUniqueName": "D:\\TuanPhan\\vuhoang1\\BTVN1\\BTVN1.csproj",
       "projectName": "BTVN1",
-      "projectPath": "E:\\CNPM\\BTVN1\\BTVN1\\BTVN1.csproj",
-      "packagesPath": "C:\\Users\\vubip\\.nuget\\packages\\",
-      "outputPath": "E:\\CNPM\\BTVN1\\BTVN1\\obj\\",
+      "projectPath": "D:\\TuanPhan\\vuhoang1\\BTVN1\\BTVN1.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\TuanPhan\\vuhoang1\\BTVN1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vubip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
